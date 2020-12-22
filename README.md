@@ -11,3 +11,5 @@
 #### • Identify broad spectrum resources and documentation to remain current with big data tools and developments
 
 #### • Execute a big data analytics exercise from start to ﬁnish: ingest, wrangle, clean, analyze and store
+
+![Fig](images/Fig.png)
