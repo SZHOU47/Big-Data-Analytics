@@ -12,4 +12,4 @@
 
 #### • Execute a big data analytics exercise from start to ﬁnish: ingest, wrangle, clean, analyze and store
 
-![Fig](images/Fig.png)
+![Fig](Fig.png)
