@@ -1,6 +1,0 @@
-hadoop jar /usr/lib/hadoop/hadoop-streaming.jar \
--files mapper.py,reducer.py \
--input s3://bigdatateaching/forensicswiki/2012_logs.txt \
--output logfile \
--mapper mapper.py \
--reducer reducer.py
